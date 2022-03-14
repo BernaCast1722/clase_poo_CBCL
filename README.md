@@ -1,2 +1,2 @@
-# Clase de Programacion Orientada  Obejetos
+# Clase de Programacion Orientada a Obejetos
 ### unidad 3
